@@ -6,8 +6,9 @@ If we want to follow someone like Instagram or Facebook; this simple object orie
 ![image](https://user-images.githubusercontent.com/67779237/124841390-bad89300-df52-11eb-80a7-fdc3465c04ee.png)
 
 ## Relationships
-![image](https://user-images.githubusercontent.com/67779237/124841418-cdeb6300-df52-11eb-9319-08a4b61c0918.png)
 
-Tuturial by: CJ Dojo
+![image](https://user-images.githubusercontent.com/67779237/124861411-259cc500-df79-11eb-94e9-059882d4521e.png)
+
+Tutorial by: CJ Dojo
 
 https://www.youtube.com/watch?v=4dqlSk_RPmI&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H&index=4
